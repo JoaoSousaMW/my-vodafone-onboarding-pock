@@ -1,0 +1,11 @@
+{
+  "React Native Typescript Const": {
+    "scope": "typescriptreact, typescript",
+    "prefix": "imp.config",
+    "body": [
+      "/* Configs */",
+    ],
+
+    "description": "React Native typescript screen snippet"
+  }
+}

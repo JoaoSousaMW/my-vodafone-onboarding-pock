@@ -1,0 +1,11 @@
+{
+  "React Native Typescript Const": {
+    "scope": "typescriptreact, typescript",
+    "prefix": "imp.container",
+    "body": [
+      "/* Containers */",
+    ],
+
+    "description": "React Native typescript screen snippet"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "React Native Typescript Const": {
+    "scope": "typescriptreact, typescript",
+    "prefix": "imp.hooks",
+    "body": [
+      "/* Hooks */",
+    ],
+
+    "description": "React Native typescript screen snippet"
+  }
+}

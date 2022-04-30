@@ -1,0 +1,11 @@
+{
+  "React Native Typescript Const": {
+    "scope": "typescriptreact, typescript",
+    "prefix": "imp.providers",
+    "body": [
+      "/* Providers */",
+    ],
+
+    "description": "React Native typescript screen snippet"
+  }
+}

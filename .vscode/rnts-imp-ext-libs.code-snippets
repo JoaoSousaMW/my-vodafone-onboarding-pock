@@ -1,0 +1,11 @@
+{
+  "React Native Typescript Const": {
+    "scope": "typescriptreact, typescript",
+    "prefix": "imp.extlibs",
+    "body": [
+      "/* External Libs */",
+    ],
+
+    "description": "React Native typescript screen snippet"
+  }
+}

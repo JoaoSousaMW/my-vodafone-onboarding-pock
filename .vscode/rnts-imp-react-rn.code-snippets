@@ -1,0 +1,11 @@
+{
+  "React Native Typescript Const": {
+    "scope": "typescriptreact, typescript",
+    "prefix": "imp.rn",
+    "body": [
+      "/* React and React Native */",
+    ],
+
+    "description": "React Native typescript screen snippet"
+  }
+}

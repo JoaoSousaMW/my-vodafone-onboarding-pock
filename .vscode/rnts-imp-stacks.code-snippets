@@ -1,0 +1,11 @@
+{
+  "React Native Typescript Const": {
+    "scope": "typescriptreact, typescript",
+    "prefix": "imp.stacks",
+    "body": [
+      "/* Stacks */",
+    ],
+
+    "description": "React Native typescript screen snippet"
+  }
+}

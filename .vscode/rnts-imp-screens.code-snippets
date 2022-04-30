@@ -1,0 +1,11 @@
+{
+  "React Native Typescript Const": {
+    "scope": "typescriptreact, typescript",
+    "prefix": "imp.screens",
+    "body": [
+      "/* Screens */",
+    ],
+
+    "description": "React Native typescript screen snippet"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "React Native Typescript Const": {
+    "scope": "typescriptreact, typescript",
+    "prefix": "imp.navigation",
+    "body": [
+      "/* Navigation */",
+    ],
+
+    "description": "React Native typescript screen snippet"
+  }
+}

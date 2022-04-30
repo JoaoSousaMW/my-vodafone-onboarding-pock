@@ -1,0 +1,11 @@
+{
+  "React Native Typescript Const": {
+    "scope": "typescriptreact, typescript",
+    "prefix": "imp.models",
+    "body": [
+      "/* Models */",
+    ],
+
+    "description": "React Native typescript screen snippet"
+  }
+}
